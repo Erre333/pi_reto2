@@ -1,0 +1,210 @@
+NOTICIA 1
+Título: Tesla Hasn't Had a Successful New Product Launch Since JB Straubel Stepped Down
+Autor: gumby
+Puntuación: 6 points
+Comentarios: discuss
+Enlace: https://cleantechnica.com/2026/11/07/tesla-hasnt-had-a-successful-new-product-launch-since-jb-straubel-stepped-down-as-cto/
+----------------------------------------
+NOTICIA 2
+Título: Llama-modchip: 284B DeepSeek on 64GB RAM, no GPU
+Autor: joshcsimmons
+Puntuación: 151 points
+Comentarios: 43 comments
+Enlace: https://github.com/synchopate/llama-modchip
+----------------------------------------
+NOTICIA 3
+Título: Porting Android 16 to my blind mother's keypad phone
+Autor: z1xus
+Puntuación: 75 points
+Comentarios: 20 comments
+Enlace: https://z1x.us/blog/four-hundred-bucks-of-e-waste
+----------------------------------------
+NOTICIA 4
+Título: OpenAI raises $11B at a $1.25T valuation
+Autor: armcat
+Puntuación: 52 points
+Comentarios: 28 comments
+Enlace: https://247wallst.com/investing/2026/11/07/openai-just-raised-11-billion-at-a-1-25-trillion-valuation-below-the-1-4-trillion-it-first-sought/
+----------------------------------------
+NOTICIA 5
+Título: Writing as a thinking tool
+Autor: jruohonen
+Puntuación: 65 points
+Comentarios: 10 comments
+Enlace: http://muratbuffalo.blogspot.com/2026/11/writing-as-thinking-tool.html
+----------------------------------------
+NOTICIA 6
+Título: I Have Never Seen a Game Fail Because the Artists Were Too Slow
+Autor: pje
+Puntuación: 4 points
+Comentarios: discuss
+Enlace: https://www.productionalchemist.com/p/inever-seen-a-game-fail-because-artists-too-slow
+----------------------------------------
+NOTICIA 7
+Título: Goodbye Claude, hello Pi
+Autor: karagenit
+Puntuación: 516 points
+Comentarios: 335 comments
+Enlace: https://caleb.software/posts/claude-to-pi.html
+----------------------------------------
+NOTICIA 8
+Título: I'm not a fan of Deno's security model (2024)
+Autor: maxloh
+Puntuación: 8 points
+Comentarios: discuss
+Enlace: https://goldstein.lol/posts/deno-security/
+----------------------------------------
+NOTICIA 9
+Título: JIT bitmap text rendering for microcontrollers
+Autor: dmit
+Puntuación: 57 points
+Comentarios: 9 comments
+Enlace: https://linebender.org/blog/jit-bitmap-text/
+----------------------------------------
+NOTICIA 10
+Título: Agent memory needs its OpenTelemetry moment
+Autor: mthines
+Puntuación: 108 points
+Comentarios: 78 comments
+Enlace: https://www.lorekit.io/blog/open-agent-memory-format
+----------------------------------------
+NOTICIA 11
+Título: Person of Interest
+Autor: krthr
+Puntuación: 215 points
+Comentarios: 139 comments
+Enlace: https://krthr.co/person-of-interest/
+----------------------------------------
+NOTICIA 12
+Título: What I run on my $10 USD OpenStick homelab
+Autor: LaurensBER
+Puntuación: 676 points
+Comentarios: 124 comments
+Enlace: https://blog.bosscher.ch/posts/openstick/
+----------------------------------------
+NOTICIA 13
+Título: Clj.rs – a Clojure dialect implemented in Rust
+Autor: simonpure
+Puntuación: 111 points
+Comentarios: 43 comments
+Enlace: https://clj.rs/
+----------------------------------------
+NOTICIA 14
+Título: Claude Code's "Don't Ask Again" exposes passwords in 1,122 public GitHub files
+Autor: shmulc
+Puntuación: 493 points
+Comentarios: 352 comments
+Enlace: https://apiiro.com/blog/coding-agents-leaking-secrets-github-dont-ask-again
+----------------------------------------
+NOTICIA 15
+Título: Petered
+Autor: adrianhoward
+Puntuación: 101 points
+Comentarios: 64 comments
+Enlace: https://aworkinglibrary.com/writing/petered
+----------------------------------------
+NOTICIA 16
+Título: Apple CEO Presses Software Chief to Pursue More Ambitious AI Strategy
+Autor: mfiguiere
+Puntuación: 15 points
+Comentarios: 13 comments
+Enlace: https://www.bloomberg.com/news/newsletters/2026-11-08/apple-explores-turning-siri-ai-into-chatgpt-dots-like-agent-ios-28-shake-up
+----------------------------------------
+NOTICIA 17
+Título: The Reconstruction of Torn Documents
+Autor: jacquesm
+Puntuación: 4 points
+Comentarios: discuss
+Enlace: https://www.bundesarchiv.de/en/stasi-records-archive/the-reconstruction-of-torn-documents/
+----------------------------------------
+NOTICIA 18
+Título: Earliest evidence of cannabis use found in ancient Siberian tomb
+Autor: mooreds
+Puntuación: 41 points
+Comentarios: 31 comments
+Enlace: https://www.cnn.com/2026/11/05/science/ancient-cannabis-siberia-scli-intl
+----------------------------------------
+NOTICIA 19
+Título: The Gordon Gekko effect: The role of culture in the financial industry (2016) [pdf]
+Autor: tylerdane
+Puntuación: 57 points
+Comentarios: 45 comments
+Enlace: https://www.newyorkfed.org/medialibrary/media/research/epr/2016/epr_2016_gordon-gekko-effect_lo.pdf
+----------------------------------------
+NOTICIA 20
+Título: Need for Speed Underground 2 online in the browser
+Autor: fluxusars
+Puntuación: 1075 points
+Comentarios: 272 comments
+Enlace: https://nfsu2.xyz/
+----------------------------------------
+NOTICIA 21
+Título: Finding Xanadu: Inside a JRPG classic translation 15 years in the making
+Autor: speckx
+Puntuación: 50 points
+Comentarios: 11 comments
+Enlace: https://readonlymemo.com/legend-of-xanadu-pc-engine-fan-translation-interview-making-of/
+----------------------------------------
+NOTICIA 22
+Título: Quadrillion-parameter transformers and how to train them
+Autor: frozenseven
+Puntuación: 49 points
+Comentarios: 41 comments
+Enlace: https://qlabs.sh/research/parameters
+----------------------------------------
+NOTICIA 23
+Título: Tasfer: a text editor drawn on a 2D canvas
+Autor: hamza512b
+Puntuación: 57 points
+Comentarios: 45 comments
+Enlace: https://www.hamza.se/blog/tasfer
+----------------------------------------
+NOTICIA 24
+Título: Drones built to look like birds evaded detection at Air Force tech exercise
+Autor: bushwart
+Puntuación: 9 points
+Comentarios: 2 comments
+Enlace: https://taskandpurpose.com/news/drone-mimicking-bird-test/
+----------------------------------------
+NOTICIA 25
+Título: New typeface using intricate designs from Shakespeare's First Folio (2023)
+Autor: bryanrasmussen
+Puntuación: 33 points
+Comentarios: 11 comments
+Enlace: https://www.itsnicethat.com/news/typeland-shakespeares-globe-amifer-folio-graphic-design-090323
+----------------------------------------
+NOTICIA 26
+Título: Uranium cubes reveal why the German nuclear project failed
+Autor: rbanffy
+Puntuación: 185 points
+Comentarios: 120 comments
+Enlace: https://arstechnica.com/science/2026/11/uranium-cubes-reveal-why-the-german-nuclear-project-failed/
+----------------------------------------
+NOTICIA 27
+Título: Consumer brain wave headsets threaten privacy
+Autor: maxall4
+Puntuación: 99 points
+Comentarios: 69 comments
+Enlace: https://www.science.org/content/article/wearable-device-makers-are-harvesting-brain-data-train-ai-without-telling-users?referrer=https%3A%2F%2Fwww.google.com%2F
+----------------------------------------
+NOTICIA 28
+Título: Every Mac comes with an (undocumented) family member classifier
+Autor: infwhispers
+Puntuación: 788 points
+Comentarios: 424 comments
+Enlace: https://8rank.ai/game/apple-intelligence-personal-knowledge-graph
+----------------------------------------
+NOTICIA 29
+Título: Making any integer with four 2s (2025)
+Autor: germanrabbit
+Puntuación: 174 points
+Comentarios: 46 comments
+Enlace: https://eli.thegreenplace.net/2025/making-any-integer-with-four-2s/
+----------------------------------------
+NOTICIA 30
+Título: Every Windows 11 app should kill Electron, and Discord just showed why
+Autor: thunderbong
+Puntuación: 396 points
+Comentarios: 397 comments
+Enlace: https://www.windowslatest.com/2026/11/06/every-windows-11-app-should-kill-electron-and-discord-just-showed-why-no-starting-screen-and-70-less-ram-even-with-two-accounts-signed-in/
+----------------------------------------
